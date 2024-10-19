@@ -17,4 +17,4 @@ venv/
 
 # data folders
 data/
-slice_data/
+sliced_data/
