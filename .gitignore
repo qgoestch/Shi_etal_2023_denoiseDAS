@@ -14,3 +14,7 @@ __pycache__/
 
 # virtualenv
 venv/
+
+# data folders
+data/
+slice_data/
